@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.button-win{
+   background-color: #E68342;
+   width: 100px;
+   border-color: #E68342;
+   text-align: center;
+   
+}
+
+.header-logo{
+  width: 400px;
+  text-align: right;
+    
+}
+    
+
+.body-bg{
+    background-color: #FA999F;
+}
+
+.p1{ 
+    font-size: 25px;
+    color: 	#135788;
+}
+.p2 {
+    font-size: 18px;
+    color: 	#135788;
+}
+
+.footer-bg{
+    background-color:#99CF43;
+}
